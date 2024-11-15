@@ -237,6 +237,7 @@ address {
     margin-left: 40px;
     font-size: 20px;
     border-bottom: 1px solid currentColor;
+    text-decoration: none;
 }
 
 .about {
